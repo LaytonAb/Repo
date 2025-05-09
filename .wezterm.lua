@@ -1,5 +1,4 @@
 local wezterm = require 'wezterm'
---Test Test test ttttttttttttttttttttttttttttttt ttttt
 local config = {}
   config.color_scheme = 'Obsidian'
   config.default_prog = { 'C:\\Program Files\\PowerShell\\7\\pwsh.exe' }
