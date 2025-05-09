@@ -1,4 +1,4 @@
---test2
+--test3
 local wezterm = require 'wezterm'
 local config = {}
   config.color_scheme = 'Obsidian'
