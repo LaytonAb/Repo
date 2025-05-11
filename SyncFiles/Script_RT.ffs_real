@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="REAL" XmlFormat="2">
+    <Directories>
+        <Item>C:\Users\Layton\Scripts</Item>
+        <Item>C:\Users\Layton\Repo\Scripts</Item>
+    </Directories>
+    <Delay>10</Delay>
+    <Commandline>"C:\Users\Layton\SyncFiles\ScriptSync.ffs_batch"</Commandline>
+</FreeFileSync>
